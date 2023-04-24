@@ -6,7 +6,7 @@ As part of our Master 1 in AI at the engineering school ISEN Lille, we developed
 
 ## Project progress
 
-This project was carried out in 02 main phases:
+This project was carried out in 03 main phases:
 
 ### The writing of a state of the art (see the file "State of the art.pdf")
 
@@ -16,5 +16,7 @@ This phase was purely theoretical. It consisted of researching all the existing 
 
 This phase was mainly practical. It was about applying the strategy established during the first phase.
 
-At the end of the project, we made an oral presentation in front of a jury in order to present the process of the project and the results obtained. (see the file "Oral presentation support.pdf")
+### The oral presentation (see the file "Oral presentation support.pdf")
+
+At the end of the project, we made an oral presentation in front of a jury in order to present the process of the project and the results obtained. 
 
