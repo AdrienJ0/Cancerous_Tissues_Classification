@@ -12,7 +12,7 @@ This project was carried out in 02 main phases:
 
 This phase was purely theoretical. It consisted of researching all the existing information concerning the resolution of our problem in order to establish a clear strategy to carry out our project.
 
-### The implementation of the strategy (see the file "Project Report.pdf")
+### The implementation of the strategy (see the file "Final Report.pdf")
 
 This phase was mainly practical. It was about applying the strategy established during the first phase.
 
