@@ -16,3 +16,5 @@ This phase was purely theoretical. It consisted of researching all the existing 
 
 This phase was mainly practical. It was about applying the strategy established during the first phase.
 
+At the end of the project, we made an oral presentation in front of a jury in order to present the process of the project and the results obtained. (see the file "Oral presentation support.pdf")
+
