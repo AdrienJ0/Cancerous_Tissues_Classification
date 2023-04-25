@@ -1,8 +1,8 @@
 # Classification_Cancerous_Tissues
 
 ## Context
-
-As part of our Master 1 in AI at the engineering school ISEN Lille, we developed a Machine Learning system dedicated to the classification of cancerous tissue images. More specifically, the objective was to implement and train a powerful Machine Learning system able to classify, from the biopsies of a given patient, the subtype of diffuse large B-cell lymphoma (ABC or GCB) that he has.
+ 
+As part of our Master 1 in AI at the engineering school ISEN Lille, our group of 5 students developed a Machine Learning system dedicated to the classification of cancerous tissue images. More specifically, the objective was to implement and train a powerful Machine Learning system able to classify, from the biopsies of a given patient, the subtype of diffuse large B-cell lymphoma (ABC or GCB) that he has.
 
 ## Project progress
 
